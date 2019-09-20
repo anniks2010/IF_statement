@@ -1,0 +1,7 @@
+C:\Users\opilane\Desktop\IF_statement\IF_statement\bin\Debug\IF_statement.exe.config
+C:\Users\opilane\Desktop\IF_statement\IF_statement\bin\Debug\IF_statement.exe
+C:\Users\opilane\Desktop\IF_statement\IF_statement\bin\Debug\IF_statement.pdb
+C:\Users\opilane\Desktop\IF_statement\IF_statement\obj\Debug\IF_statement.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\IF_statement\IF_statement\obj\Debug\IF_statement.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Desktop\IF_statement\IF_statement\obj\Debug\IF_statement.exe
+C:\Users\opilane\Desktop\IF_statement\IF_statement\obj\Debug\IF_statement.pdb
